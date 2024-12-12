@@ -1,7 +1,6 @@
 # ModerLauncher - ¡Tu Lanzador Gratuito para Minecraft! 🎮
 
-![ModerLauncher Logo](![Imagen de WhatsApp 2024-12-11 a las 20 51 03_a63c8595](https://github.com/user-attachments/assets/d5e96c95-7993-4e7b-ac9a-92f36f0bde47)
-)
+![ModerLauncher Logo](https://cdn.discordapp.com/attachments/1020374844036100147/1316835426006208592/Diseno_sin_titulo__28_-removebg-preview.png?ex=675c7e0f&is=675b2c8f&hm=7cb4a1328273a2eaf8feefda67f48b4c92694a472a59df5a6800152bbfaf7bb9&)
 
 Bienvenido a **ModerLauncher**, un launcher gratuito para Minecraft que estamos desarrollando para mejorar tu experiencia de juego. Este proyecto está en constante evolución, y queremos que seas parte de esta comunidad para llevarlo al siguiente nivel.
 
